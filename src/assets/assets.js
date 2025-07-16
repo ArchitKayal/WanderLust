@@ -40,37 +40,37 @@ export const projectsData = [
     {
         title: "Portugal",
         price: "$5000",
-        package: "5 days, 4 nights",
+        package: "5D, 4N",
         image: project_img_1
     },
     {
         title: "England",
         price: "$6000",
-        package: "4 days, 3 nights",
+        package: "4D, 3N",
         image: project_img_2
     },
     {
         title: "Austria",
         price: "$4000",
-        package: "6 days, 5 nights",
+        package: "6D, 5N",
         image: project_img_3
     },
     {
         title: "Germany",
         price: "$7000",
-        package: "4 days, 3 nights",
+        package: "4D, 3N",
         image: project_img_4
     },
     {
         title: "Spain",
         price: "$6500",
-        package: "3 days, 2 nights",
+        package: "3D, 2N",
         image: project_img_5
     },
     {
         title: "France",
         price: "$3000",
-        package: "3 days, 2 nights",
+        package: "3D, 2N",
         image: project_img_6
     },
 ];

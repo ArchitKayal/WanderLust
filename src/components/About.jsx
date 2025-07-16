@@ -28,7 +28,7 @@ const About = () => {
                     </div>
                 </div>
                 <p className='my-10 max-w-lg'>With over 5 years of expertise, 1000+ unforgettable adventures, and 5000+ delighted travelers, we’re your trusted partner in exploring 50+ breathtaking destinations. We believe in crafting journeys that inspire, connect, and transform so you can travel with purpose, create memories, and embrace the world one adventure at a time.</p>
-                <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn More</button>
+                <button className='bg-blue-600 text-white px-8 py-2 rounded cursor-pointer'>Learn More</button>
             </div>
         </div>
     </div>
