@@ -12,9 +12,8 @@ import project_img_3 from './project_img_3.jpg'
 import project_img_4 from './project_img_4.jpg'
 import project_img_5 from './project_img_5.jpg'
 import project_img_6 from './project_img_6.jpg'
-import profile_img_1 from './profile_img_1.jpg'
-import profile_img_2 from './profile_img_2.jpg'
-import profile_img_3 from './profile_img_3.jpg'
+import profile_img_1 from './profile_img_1.png'
+
 
 export const assets = {
     logo, 
@@ -32,8 +31,6 @@ export const assets = {
     left_arrow,
     right_arrow,
     profile_img_1,
-    profile_img_2,
-    profile_img_3
 }
 
 export const projectsData = [
@@ -85,18 +82,18 @@ export const testimonialsData = [
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eius non dolor repellat ipsum minus assumenda blanditiis corporis tempore amet?",
     },
     {
-        name: "Reginald Watson",
-        title: "Manager",
-        image: profile_img_2,
-        alt: "Pic of Reginald Watson",
+        name: "Emma Watson",
+        title: "Salesman",
+        image: profile_img_1,
+        alt: "Pic of Emma Watson",
         rating: 5,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eius non dolor repellat ipsum minus assumenda blanditiis corporis tempore amet?",
     },
     {
-        name: "Reginald Watson",
-        title: "Manager",
-        image: profile_img_3,
-        alt: "Pic of Reginald Watson",
+        name: "Ronald Watson",
+        title: "Bookkeeper",
+        image: profile_img_1,
+        alt: "Pic of Ronald Watson",
         rating: 5,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio eius non dolor repellat ipsum minus assumenda blanditiis corporis tempore amet?",
     },
