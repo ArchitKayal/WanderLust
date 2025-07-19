@@ -2,6 +2,8 @@
 
 **WanderLust** is a modern, responsive tour company website built with **React** using **Vite** for fast development and optimized builds. It uses **Tailwind CSS** for clean, utility-first styling and includes subtle **Motion** for an engaging user experience. This project showcases WanderLust’s travel packages, destinations, and highlights to help travelers plan their next adventure with ease.
 
+🌐 **Live Demo:** [wanderlust-touring.netlify.app](https://wanderlust-touring.netlify.app/)
+
 ## Available Scripts
 
 **Install dependencies:**
